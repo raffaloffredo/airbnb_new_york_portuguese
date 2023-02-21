@@ -10,12 +10,12 @@
 Esse é um estudo completo de uma análise exploratória de dados para compreender os preços de aluguel e localizações dos imóveis anunciados no site do Airbnb.
 
 
-* **[Code File](https://github.com/raffaloffredo/airbnb_new_york_portuguese/blob/main/Analisando_os_Dados_do_Airbnb_em_New_York.ipynb)**
-* **Article**
-* **Presentation**
+* **[Código](https://github.com/raffaloffredo/airbnb_new_york_portuguese/blob/main/Analisando_os_Dados_do_Airbnb_em_New_York.ipynb)**
+* **Artigo**
+* **Apresentação**
 
 
- ## Let's Connect
+ ## Contatos
 <div>
   <a href="https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:raffaloffredo@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
