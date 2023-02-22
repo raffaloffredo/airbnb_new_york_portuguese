@@ -11,7 +11,7 @@ Esse é um estudo completo de uma análise exploratória de dados para compreend
 
 
 * **[Código](https://github.com/raffaloffredo/airbnb_new_york_portuguese/blob/main/Analisando_os_Dados_do_Airbnb_em_New_York.ipynb)**
-* **Artigo**
+* **[Artigo](https://medium.com/@loffredo.ds/análise-de-dados-do-airbnb-em-new-york-fdec36c16eeb)**
 * **Apresentação**
 
 
