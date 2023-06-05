@@ -12,7 +12,7 @@
 Esse é um estudo completo de uma análise exploratória de dados para compreender os preços de aluguel e localizações dos imóveis anunciados no site do Airbnb.
 
 
-* **[Código](https://github.com/raffaloffredo/airbnb_new_york_portuguese/blob/main/Analisando_os_Dados_do_Airbnb_em_New_York.ipynb)**
+* **[Projeto na íntegra](https://github.com/raffaloffredo/airbnb_new_york_portuguese/blob/main/Analisando_os_Dados_do_Airbnb_em_New_York.ipynb)**
 * **[Artigo](https://medium.com/@loffredo.ds/análise-de-dados-do-airbnb-em-new-york-fdec36c16eeb)**
 * **[Apresentação](https://docs.google.com/presentation/d/1UkLPBhimujP2016lcDTqo4DMj9vOsvwc/edit?usp=sharing&ouid=103029889753705682175&rtpof=true&sd=true)**
 <br/>
